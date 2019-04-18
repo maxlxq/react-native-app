@@ -1,6 +1,6 @@
-##React Native App
+## React Native App
 
-####TODO LIST
+#### TODO LIST
 - [ ] redux
 - [ ] saga
 - [ ] sentry
@@ -12,17 +12,17 @@
 - [ ] ...
 
 
-####Redux
+#### Redux
 
-####Saga
+#### Saga
 
-####Sentry
+#### Sentry
 
-####Aliyun_Push
+#### Aliyun_Push
 
-####EsLint
+#### EsLint
 
-####Code_Push
+#### Code_Push
 
-####React-Navigation
+#### React-Navigation
 
